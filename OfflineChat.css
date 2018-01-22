@@ -1,0 +1,28 @@
+﻿*{
+    margin:0;
+    padding:0;
+    font-family:hahoma;
+    box-sizing:border-box;
+}
+
+body{
+    background:#93f8f8;
+}
+
+.chatbox{
+        width:500px;
+        min-width:290px;
+        height:600px;
+        background:#0f176b;
+        padding:25px;
+        margin:20px auto;
+
+}
+
+
+
+.user-message{
+    background-color:#ffffff;
+
+
+}
